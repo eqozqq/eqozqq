@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
-  <rect width="100%" height="100%" fill="white"/>
-    <tspan x="20" dy="0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</tspan>
-    <tspan x="20" dy="32">incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</tspan>
-    <tspan x="20" dy="32">exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure</tspan>
-    <tspan x="20" dy="32">dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</tspan>
-    <tspan x="20" dy="32">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit</tspan>
-    <tspan x="20" dy="32">anim id est laborum.</tspan>
-  </text>
-</svg>
+Посмотрел обзоры на мой Colbux и на мои другие проекты от, так сказать, местной элиты, тех, кого принято сейчас мнение их слушать. Так вот, мнение этих людей ничего не стоит, потому что они вообще не понимают, что такое Colbux, что такое жизнь, как коммуницировать, как понимать сказанную речь. То, что я могу показать все мои достижения, каждый мой проект. Я записывал код, да, я обрабатывал код, Тренировал вашу выдержку годами. Я три года писал код Я программировал эту систему И Colbux Там очень сложная система Аналогов нет, буквально Самая популярная компания сейчас Это Google так Вот, это максимальный аналог И это то, что я делаю Это то, что никто из них даже не может понять, что это такое Я уже делаю Да я на две головы впереди Я просто мечу бисер перед свиньями Эти типы вообще, блядь, агрессивные
